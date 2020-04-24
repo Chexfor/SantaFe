@@ -1,0 +1,22 @@
+{ 
+    "transaccion" : [
+    {
+        "fromAccount":"123456789",
+        "toAccount":987654321,
+        "amount":234.66,
+        "sentAt": "2012-04-21T18:25:43.511Z"
+        },
+        {
+        "fromAccount":"123456789",
+        "toAccount":987654321,
+        "amount":234.88,
+        "sentAt": "2012-04-23T18:25:43.511Z"
+    }
+  
+]
+  
+
+}
+   
+
+    
