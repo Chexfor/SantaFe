@@ -39,4 +39,7 @@ Se separaro cada methodo en seguida ponen el numero del cliente y traera los dat
 se saca el balance de la cuenta.
 
 METODOS GET
+
  http://localhost:3000/api/clientes/balance/2 // numero de cliente
+
+************************************************
